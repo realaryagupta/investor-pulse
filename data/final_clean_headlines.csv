@@ -1,0 +1,327 @@
+,date,company,cleaned_headline,sentiment,sentiment_score
+0,2025-05-29,GOOGL,bill nygrens strategic moves constellation brands inc takes center stage with 112 portfolio impact,neutral,0.78456926
+1,2025-05-29,TSLA,market today nvidia nvda leads ai surge amid strong earnings,positive,0.926326
+2,2025-05-29,AAPL,asx market open trump tariff appeal ruling bumps wall street up shakes oz shares may 30 2025,neutral,0.6442579
+3,2025-05-29,AAPL,sonder holdings inc receives notification of deficiency from nasdaq related to delayed filing of quarterly report on form 10q,negative,0.9475854
+4,2025-05-29,MSFT,netapp reports record results for fourth quarter and fiscal year 2025,positive,0.9225117
+5,2025-05-29,TSLA,tesla tsla rating downgraded amid price concerns,negative,0.95206755
+6,2025-05-29,AAPL,nvidia nvda surges on strong earnings amid us stock market gains,positive,0.91297543
+7,2025-05-29,TSLA,nvidia nvda surges on strong earnings amid us stock market gains,positive,0.91297543
+8,2025-05-29,TSLA,whats next for tesla as musk departs trump white house,neutral,0.93311036
+9,2025-05-29,MSFT,stock market today markets close higher amid trump tariff legal battle nvidia leads tech gains,positive,0.88922113
+10,2025-05-29,GOOGL,sp 500 gains and losses today hp best buy stocks drop as tariffs weigh on outlook,negative,0.9675704
+11,2025-05-29,AAPL,jim cramer on apple inc aapl theyll have the best ai,neutral,0.7754674
+12,2025-05-29,TSLA,tesla tsla announces robotaxi launch in austin tsla stock news,neutral,0.9262555
+13,2025-05-29,AAPL,stock market today sp 500 and nasdaq rally on nvidia earnings court blocks trump tariffs,negative,0.6965712
+14,2025-05-29,TSLA,stock market today sp 500 and nasdaq rally on nvidia earnings court blocks trump tariffs,negative,0.6965712
+15,2025-05-29,AMZN,amazon amzn launches zeroone group to innovate consumer tech,neutral,0.56368583
+16,2025-05-29,AMZN,amzn partners with new york times for content licensing deal amzn stock news,neutral,0.8454736
+17,2025-05-29,AMZN,amazon amzn forms new team for innovative consumer products amzn stock news,neutral,0.8747842
+18,2025-05-29,AAPL,wedbush apple inc nasdaqaapl could face us pressure but india key to avoiding 3500 iphones,positive,0.5706684
+19,2025-05-29,TSLA,tesla tsla advocates for gradual phaseout of energy tax credits tsla stock news,neutral,0.8943687
+20,2025-05-29,AMZN,amazon amzn and new york times forge ai licensing partnership amzn stock news,neutral,0.923155
+21,2025-05-29,GOOGL,google to launch direct sales and physical stores in india,neutral,0.6687722
+22,2025-05-29,TSLA,td cowen maintains buy rating on tesla tsla,neutral,0.8800814
+23,2025-05-29,AAPL,ubs maintains neutral rating on apple aapl keeps 210 pt,neutral,0.89773756
+24,2025-05-29,TSLA,stock market today markets climb as court blocks trump tariffs and nvidia impresses,positive,0.88854194
+25,2025-05-29,AAPL,apple aapl faces decline in iphone shipments amid rising tariff concerns,negative,0.97352827
+26,2025-05-29,GOOGL,jensen huang to offload 6m nvidia shares in 2025,neutral,0.8876948
+27,2025-05-29,AMZN,cloud wars googles 75b bet against microsoft and amazon,neutral,0.80935717
+28,2025-05-29,GOOGL,cloud wars googles 75b bet against microsoft and amazon,neutral,0.80935717
+29,2025-05-29,MSFT,cloud wars googles 75b bet against microsoft and amazon,neutral,0.80935717
+30,2025-05-29,GOOGL,investors double down on taco trade after tariff invalidation a tell from nvidia mass layoffs nvidia nasdaqnvda spdr sp 500 arcaspy,negative,0.94374853
+31,2025-05-29,TSLA,investors double down on taco trade after tariff invalidation a tell from nvidia mass layoffs nvidia nasdaqnvda spdr sp 500 arcaspy,negative,0.94374853
+32,2025-05-29,AMZN,investors double down on taco trade after tariff invalidation a tell from nvidia mass layoffs nvidia nasdaqnvda spdr sp 500 arcaspy,negative,0.94374853
+33,2025-05-29,AAPL,investors double down on taco trade after tariff invalidation a tell from nvidia mass layoffs nvidia nasdaqnvda spdr sp 500 arcaspy,negative,0.94374853
+34,2025-05-29,MSFT,microsoft msft stock nears record high as azure cloud business surges,positive,0.909814
+35,2025-05-29,AMZN,amazon amzn partners with new york times for exclusive content agreement amzn stock news,neutral,0.84698933
+36,2025-05-29,MSFT,stock market today markets rally as court blocks trump tariffs and nvidia impresses,positive,0.8807092
+37,2025-05-29,AMZN,performance comparison amazoncom and competitors in broadline retail industry amazoncom nasdaqamzn,neutral,0.74727005
+38,2025-05-29,GOOGL,assessing meta platformss performance against competitors in interactive media services industry meta platforms nasdaqmeta,neutral,0.7550361
+39,2025-05-29,AAPL,affirm expands partnership with williamssonoma inc into canada,positive,0.8209773
+40,2025-05-29,AMZN,new york times agrees to license content to amazon for ai use,neutral,0.52372736
+41,2025-05-29,GOOGL,new york times agrees to license content to amazon for ai use,neutral,0.52372736
+42,2025-05-29,TSLA,teslas return to reality will be brutal i might buy puts nasdaqtsla,neutral,0.8850609
+43,2025-05-29,MSFT,nvidia stock soars after earningsas stocks broadly rally on tariff ruling,positive,0.7293762
+44,2025-05-29,TSLA,a closer look at teslas options market dynamics tesla nasdaqtsla,neutral,0.92321455
+45,2025-05-29,TSLA,iova reminder bfa law reminds iovance biotherapeutics inc investors of the imminent july 14 deadline in securities fraud class action nasdaqiova,negative,0.69962305
+46,2025-05-29,TSLA,vtrs reminder bfa law reminds viatris inc investors of the imminent june 3 deadline in securities fraud class action nasdaqvtrs,negative,0.8331551
+47,2025-05-29,GOOGL,these 4 quantum stocks outperformed in mayis there more room to run,positive,0.87187946
+48,2025-05-29,MSFT,these 4 quantum stocks outperformed in mayis there more room to run,positive,0.87187946
+49,2025-05-29,AAPL,how to trade spy and top tech stocks after tariff ruling boosts market,neutral,0.8666745
+50,2025-05-29,GOOGL,how to trade spy and top tech stocks after tariff ruling boosts market,neutral,0.8666745
+51,2025-05-29,TSLA,how to trade spy and top tech stocks after tariff ruling boosts market,neutral,0.8666745
+52,2025-05-29,AAPL,us stocks rise as court ruling weakens trumps tariff authority tech leads rally on nvidia earnings,negative,0.4580095
+53,2025-05-29,MSFT,tesla block ride bitcoin boom as microstrategy goes all in strategy nasdaqmstr tesla nasdaqtsla block nysexyz,neutral,0.84009635
+54,2025-05-29,TSLA,tesla block ride bitcoin boom as microstrategy goes all in strategy nasdaqmstr tesla nasdaqtsla block nysexyz,neutral,0.84009635
+55,2025-05-29,MSFT,comscore adds consumer ai tool usage data to its industryleading suite of reporting scor stock news,neutral,0.8918498
+56,2025-05-29,AAPL,apples perfect storm tariffs china ai and innovation nasdaqaapl,neutral,0.88310564
+57,2025-05-29,AAPL,stock market today futures surge as court blocks trump tariffs and nvidia impresses,positive,0.88789564
+58,2025-05-29,MSFT,stock market today futures surge as court blocks trump tariffs and nvidia impresses,positive,0.88789564
+59,2025-05-29,TSLA,stock market today futures surge as court blocks trump tariffs and nvidia impresses,positive,0.88789564
+60,2025-05-29,AAPL,podcastone nasdaq podc announces network expansion with launch of five new and acquired podcasts marks 11 additions in 2025 for a total of 208 shows,neutral,0.5073848
+61,2025-05-29,TSLA,morning reads,neutral,0.82737243
+62,2025-05-29,GOOGL,google goog collaboration supports nutanixs positive outlook goog stock news,neutral,0.7648923
+63,2025-05-29,GOOGL,chip stocks and big tech shares jump on trump tariffs ruling nvidias earnings and elon musk news,negative,0.72180253
+64,2025-05-29,MSFT,chip stocks and big tech shares jump on trump tariffs ruling nvidias earnings and elon musk news,negative,0.72180253
+65,2025-05-29,TSLA,chip stocks and big tech shares jump on trump tariffs ruling nvidias earnings and elon musk news,negative,0.72180253
+66,2025-05-29,AMZN,chip stocks and big tech shares jump on trump tariffs ruling nvidias earnings and elon musk news,negative,0.72180253
+67,2025-05-29,AAPL,chip stocks and big tech shares jump on trump tariffs ruling nvidias earnings and elon musk news,negative,0.72180253
+68,2025-05-29,AAPL,stock futures fade overnight gains after activist judges block trump tariffs nvda earnings impress,negative,0.87969965
+69,2025-05-29,GOOGL,stock futures fade overnight gains after activist judges block trump tariffs nvda earnings impress,negative,0.87969965
+70,2025-05-29,MSFT,stock futures fade overnight gains after activist judges block trump tariffs nvda earnings impress,negative,0.87969965
+71,2025-05-29,TSLA,stock futures fade overnight gains after activist judges block trump tariffs nvda earnings impress,negative,0.87969965
+72,2025-05-29,TSLA,dan ives calls elon musks trump white house exit music to the ears of tesla shareholders predicts renewed autonomous vehicle focus tesla nasdaqtsla,neutral,0.562141
+73,2025-05-29,AAPL,recovery from startup failure hidden mistakes to avoid now,neutral,0.7834863
+74,2025-05-29,MSFT,top 5 stock buys for june ai picks that arent nvidia,neutral,0.9353792
+75,2025-05-29,TSLA,5 things to know before the stock market opens,neutral,0.93319935
+76,2025-05-29,TSLA,over 20 byd dealerships shut down in china amid expansion to europe impacting 1000 customers report byd otcbyddy,negative,0.9632444
+77,2025-05-29,GOOGL,goog partnership boosts warby parkers market outlook goog stock news,neutral,0.52442145
+78,2025-05-29,MSFT,microsoft current valuation is a gift nasdaqmsft,neutral,0.9422898
+79,2025-05-29,AAPL,apple to launch ios 26 macos 26 in major rebrand tied to software redesigns,positive,0.7931874
+80,2025-05-29,AAPL,wall street breakfast podcast judges check trumps trade,neutral,0.89264643
+81,2025-05-29,TSLA,wall street breakfast podcast judges check trumps trade,neutral,0.89264643
+82,2025-05-29,GOOGL,google googl launches direct online device sales in india,neutral,0.7655344
+83,2025-05-29,TSLA,tesla deliveries drop 87 in quebec in q1 hitting 2year low amid incentive cuts musks political ties tesla nasdaqtsla,negative,0.96590036
+84,2025-05-29,AAPL,a 9 dividend to ride out the us debt downgrade,positive,0.8840583
+85,2025-05-29,MSFT,a 9 dividend to ride out the us debt downgrade,positive,0.8840583
+86,2025-05-29,GOOGL,stock market today markets surge as court blocks trump tariffs and nvidia impresses,positive,0.9056609
+87,2025-05-29,GOOGL,c3ai eyes 47 billion agentic ai market by 2030 with 60 million arr we are well positioned to capitalize says ceo c3ai nyseai amazoncom nasdaqamzn,positive,0.72743684
+88,2025-05-29,MSFT,c3ai eyes 47 billion agentic ai market by 2030 with 60 million arr we are well positioned to capitalize says ceo c3ai nyseai amazoncom nasdaqamzn,positive,0.72743684
+89,2025-05-29,AMZN,c3ai eyes 47 billion agentic ai market by 2030 with 60 million arr we are well positioned to capitalize says ceo c3ai nyseai amazoncom nasdaqamzn,positive,0.72743684
+90,2025-05-29,AAPL,forget ios 19 your next iphone update could be ios 26 as apple plans major os overhaul,neutral,0.9449907
+91,2025-05-29,TSLA,tesla institutional investors demand elon musks 40 hours a week commitment amid company crisis urge succession plan for top execs tesla nasdaqtsla,neutral,0.8835711
+92,2025-05-29,MSFT,how high can nvidia stock price go strong nvda earnings and new 185 share predictions,neutral,0.6162262
+93,2025-05-29,GOOGL,tesla targets june 12 launch of robotaxi service in austin,neutral,0.9184187
+94,2025-05-29,TSLA,tesla targets june 12 launch of robotaxi service in austin,neutral,0.9184187
+95,2025-05-29,AAPL,jio platforms finds the right signal with nonconnectivity ventures,neutral,0.64206934
+96,2025-05-29,TSLA,musk departs us government with his business empire in turmoil,neutral,0.77406627
+97,2025-05-29,AAPL,google launches direct sales of pixel phones in india a new retail era et retail,neutral,0.54377395
+98,2025-05-29,AAPL,if trumps going to outright dismiss courts over liberation day were about to find out,neutral,0.82753074
+99,2025-05-29,MSFT,nvidia record 44b quarter signals strength despite china export headwinds,positive,0.934726
+100,2025-05-29,TSLA,tesla tsla ceo elon musk concludes role as special government employee tsla stock news,neutral,0.9366306
+101,2025-05-29,TSLA,tesla tsla plans june launch for austin robotaxi service,neutral,0.8935973
+102,2025-05-29,AAPL,nvda aapl amzn tem tsla 5 trending stocks today apple nasdaqaapl amazoncom nasdaqamzn,neutral,0.91117156
+103,2025-05-29,AMZN,nvda aapl amzn tem tsla 5 trending stocks today apple nasdaqaapl amazoncom nasdaqamzn,neutral,0.91117156
+104,2025-05-29,TSLA,nvda aapl amzn tem tsla 5 trending stocks today apple nasdaqaapl amazoncom nasdaqamzn,neutral,0.91117156
+105,2025-05-29,AAPL,apple to launch ios 26 macos 26 in major rebrand tied to software redesigns,positive,0.7931874
+106,2025-05-29,TSLA,musk departs doge leaving costcutting efforts legacy in doubt,negative,0.71887887
+107,2025-05-29,AMZN,dow futures jump over 400 points amazon and walmart shares spike in afterhours trading after court blocks trump tariffs nikkei opens higher costco wholesale nasdaqcost amazoncom nasdaqamzn,positive,0.42537606
+108,2025-05-29,TSLA,cathie wood ditches 56m more tesla while elon musk quits government role doubles down on ai stock under attack by short sellers ark genomic revolution etf batsarkg ark innovation etf batsa,negative,0.94454086
+109,2025-05-28,TSLA,tesla inc tsla set to launch robotaxi service in austin on june 12 bloomberg news,neutral,0.92378503
+110,2025-05-28,GOOGL,salesforce says ai has reduced hiring of engineers and customer service workers,negative,0.9627197
+111,2025-05-28,AAPL,asx market open another nearflat morning as rosy nvidia results fail to really excite,negative,0.91952956
+112,2025-05-28,TSLA,tesla investors demand musk work 40hour week at ev maker as crisis builds,neutral,0.72550464
+113,2025-05-28,GOOGL,alphabet inc goog stock moves 034 what you should know,neutral,0.9212655
+114,2025-05-28,GOOGL,alphabet googl stock moves 031 what you should know,neutral,0.92637855
+115,2025-05-28,AAPL,apples valuation is priced to perfection thought on the higher end nasdaqaapl,neutral,0.8157128
+116,2025-05-28,AAPL,strategic turnaround plans hidden mistakes to avoid now,neutral,0.76687324
+117,2025-05-28,AAPL,us tightens china chip curbs by targeting design software,neutral,0.62495047
+118,2025-05-28,TSLA,stock market today markets await nvidia earnings and fed minutes as major indexes edge lower,neutral,0.79747385
+119,2025-05-28,TSLA,hedge fund and insider trading news ray dalio david tepper warren buffett bill ackman saba capital management impactive capital lakeland financial corp lkfn tesla inc tsla and more,neutral,0.9406167
+120,2025-05-28,AAPL,market direction to be driven by nvidia earnings consumer roars back with renewed faith in trump nvidia nasdaqnvda spdr sp 500 arcaspy,positive,0.9261378
+121,2025-05-28,AMZN,market direction to be driven by nvidia earnings consumer roars back with renewed faith in trump nvidia nasdaqnvda spdr sp 500 arcaspy,positive,0.9261378
+122,2025-05-28,GOOGL,market direction to be driven by nvidia earnings consumer roars back with renewed faith in trump nvidia nasdaqnvda spdr sp 500 arcaspy,positive,0.9261378
+123,2025-05-28,TSLA,market direction to be driven by nvidia earnings consumer roars back with renewed faith in trump nvidia nasdaqnvda spdr sp 500 arcaspy,positive,0.9261378
+124,2025-05-28,MSFT,20 ways data analytics gives physical stores a competitive edge,positive,0.7804891
+125,2025-05-28,TSLA,tesla inc tsla jim cramer shares key catalyst that could make stock skyrocket,neutral,0.7872375
+126,2025-05-28,GOOGL,for alphabet inc googl ai research monetization is all that matters says jim cramer,neutral,0.93607384
+127,2025-05-28,AMZN,amazoncom inc amzn will buy every single nvidia chip it can get says jim cramer,neutral,0.8105646
+128,2025-05-28,MSFT,microsoft stock rallies 33will nvidias earnings be the next catalyst,neutral,0.837071
+129,2025-05-28,TSLA,tesla tsla gets 355 price target as robotaxi launch sparks analyst optimism,neutral,0.622827
+130,2025-05-28,GOOGL,alphabet googl stock outperforms nasdaq analyst sees promising signs after i,positive,0.91747844
+131,2025-05-28,GOOGL,alphabet googl stock outperforms nasdaq analyst sees promising signs after io,positive,0.9100684
+132,2025-05-28,AAPL,apple takes top spot in global smartphone market in q1 counterpoint,positive,0.790218
+133,2025-05-28,TSLA,stock market today markets steady as investors await nvidia earnings and fed minutes,positive,0.78590643
+134,2025-05-28,AMZN,investigating amazoncoms standing in broadline retail industry compared to competitors amazoncom nasdaqamzn,positive,0.84767175
+135,2025-05-28,AAPL,evaluating apple against peers in technology hardware storage peripherals industry apple nasdaqaapl,neutral,0.6988786
+136,2025-05-28,GOOGL,industry comparison evaluating meta platforms against competitors in interactive media services industry meta platforms nasdaqmeta,neutral,0.8057163
+137,2025-05-28,MSFT,assessing microsofts performance against competitors in software industry microsoft nasdaqmsft,neutral,0.8597074
+138,2025-05-28,MSFT,why an investment bank remains bullish on microsoft msft,neutral,0.8559121
+139,2025-05-28,AAPL,apple inc aapl should be bought on weakness veteran investor says,neutral,0.78654754
+140,2025-05-28,GOOGL,broadcom avgo is gaining market share in the aichip space tech researcher says,positive,0.93239325
+141,2025-05-28,MSFT,broadcom avgo is gaining market share in the aichip space tech researcher says,positive,0.93239325
+142,2025-05-28,TSLA,broadcom avgo is gaining market share in the aichip space tech researcher says,positive,0.93239325
+143,2025-05-28,AMZN,broadcom avgo is gaining market share in the aichip space tech researcher says,positive,0.93239325
+144,2025-05-28,AAPL,how to trade nvidia under earnings spotlight nvidia nasdaqnvda,neutral,0.9456813
+145,2025-05-28,GOOGL,how to trade nvidia under earnings spotlight nvidia nasdaqnvda,neutral,0.9456813
+146,2025-05-28,TSLA,how to trade nvidia under earnings spotlight nvidia nasdaqnvda,neutral,0.9456813
+147,2025-05-28,MSFT,agentic ai can salesforces ai pivot lead to real growth,neutral,0.83597636
+148,2025-05-28,TSLA,agentic ai can salesforces ai pivot lead to real growth,neutral,0.83597636
+149,2025-05-28,TSLA,tesla why analysts think it could jump another 47,neutral,0.46297812
+150,2025-05-28,MSFT,tesla why analysts think it could jump another 47,neutral,0.46297812
+151,2025-05-28,TSLA,nvidias earnings report means another big test for the chip giant,positive,0.8817056
+152,2025-05-28,GOOGL,uber stock ready to ride higher on waymo partnership,positive,0.84406346
+153,2025-05-28,TSLA,uber stock ready to ride higher on waymo partnership,positive,0.84406346
+154,2025-05-28,MSFT,malaysia refuses to pick sides in uschina tech war vows to work with both we choose what is best microsoft nasdaqmsft arm holdings nasdaqarm,neutral,0.8337055
+155,2025-05-28,AAPL,futures erases overnight loss trade higher ahead of nvidia earnings,positive,0.4444938
+156,2025-05-28,GOOGL,futures erases overnight loss trade higher ahead of nvidia earnings,positive,0.4444938
+157,2025-05-28,MSFT,futures erases overnight loss trade higher ahead of nvidia earnings,positive,0.4444938
+158,2025-05-28,TSLA,futures erases overnight loss trade higher ahead of nvidia earnings,positive,0.4444938
+159,2025-05-28,AAPL,apple expands self service repair program to ipads aaplnasdaq,positive,0.5795026
+160,2025-05-28,GOOGL,vaneck launches europes first only quantum computing etf,neutral,0.82620233
+161,2025-05-28,TSLA,buckle upgamestop confirms bitcoin bombshell as wild speculation fuels huge price surge,neutral,0.8003015
+162,2025-05-28,AAPL,the magnificent 7 earnings finale,neutral,0.8933102
+163,2025-05-28,TSLA,stock market today markets cautious ahead of nvidia earnings and fomc minutes,negative,0.95527554
+164,2025-05-28,TSLA,teslas chinese rival byd sued for 45 million over alleged human trafficking slavelike conditions at brazil factory site tesla nasdaqtsla byd otcbyddy,negative,0.93296695
+165,2025-05-28,AAPL,wall street breakfast podcast shein aims for hong kong ipo,neutral,0.92959636
+166,2025-05-28,AAPL,us stocks surge on tariff reprieve and lower yields,negative,0.5334705
+167,2025-05-28,TSLA,us stocks surge on tariff reprieve and lower yields,negative,0.5334705
+168,2025-05-28,AAPL,tata sons feels the heat as tcs shrinks dividend for the first time in 20 years,negative,0.96051204
+169,2025-05-28,AMZN,us stock futures dip after sharp rally focus on nvidia earnings,negative,0.8187111
+170,2025-05-28,TSLA,stock market today markets await nvidia earnings and fomc minutes amid tariff relief rally,neutral,0.46695295
+171,2025-05-28,GOOGL,nvidias big moment is just ahead heres what to watch for,neutral,0.93154806
+172,2025-05-28,TSLA,ubs issues sell rating on tesla tsla heres whats driving the caution,neutral,0.9247547
+173,2025-05-28,AAPL,trumps 25 tariff threat looms but apple aapl isnt moving yet,negative,0.5383322
+174,2025-05-28,MSFT,microsoft msft gets 540 price target analyst sees 24 billion ai revenue boom,positive,0.57868826
+175,2025-05-28,AAPL,texas age verification law texas moves to enforce age verification on app stores amid growing concerns over childrens safety et brandequity,negative,0.9199406
+176,2025-05-28,AAPL,apple ramps up india manufacturing as us iphone imports surge 76 in april while shipments from china plunge apple nasdaqaapl,positive,0.8832264
+177,2025-05-28,AAPL,texas governor signs law mandating age verification on apple and google app stores,neutral,0.793743
+178,2025-05-28,GOOGL,raghuram rajan warns us risks future by curbing foreign students,negative,0.6345692
+179,2025-05-28,MSFT,microsoft stock 3 reasons why its still a strong buy nasdaqmsft,neutral,0.6293625
+180,2025-05-28,AAPL,bitcoin vegas ten moments that cant be missed in the bull run,neutral,0.8827342
+181,2025-05-28,AAPL,apple to launch dedicated gaming app across iphone ipad mac and apple tv,neutral,0.7767179
+182,2025-05-28,AAPL,qualcomm modems outperform apples c1 chip in 5g performance study,positive,0.8016285
+183,2025-05-28,MSFT,trump world tries to corner crypto,neutral,0.879812
+184,2025-05-28,TSLA,spacex starship destroyed in third straight fiery test setback,negative,0.8733876
+185,2025-05-28,TSLA,musk says hes disappointed that trump tax bill raises deficit,negative,0.95444363
+186,2025-05-28,TSLA,nvda amc pdd djt tsla 5 trending stocks today amc entertainment hldgs nyseamc,neutral,0.92178595
+187,2025-05-28,TSLA,sp 500 surges after surprising consumer confidence report,positive,0.78667647
+188,2025-05-28,TSLA,cathie wood dumps 99m tesla despite musks 247 pledge loads up on nvidia before earnings advanced micro devices nasdaqamd ark innovation etf batsarkk,neutral,0.6628997
+189,2025-05-28,GOOGL,alphabet just slashed its stake in this monster artificial intelligence ai cybersecurity stock should you follow,negative,0.8383075
+190,2025-05-28,MSFT,the wild ride of informatica 32 years 2 ipos to 8 billion acquisition by salesforce,neutral,0.842132
+191,2025-05-28,AAPL,norways wealth fund ceo demands ai adoption among employees,negative,0.5882503
+192,2025-05-28,AMZN,norways wealth fund ceo demands ai adoption among employees,negative,0.5882503
+193,2025-05-28,GOOGL,norways wealth fund ceo demands ai adoption among employees,negative,0.5882503
+194,2025-05-28,TSLA,norways wealth fund ceo demands ai adoption among employees,negative,0.5882503
+195,2025-05-27,TSLA,musk must face suit challenging power as trump aide judge says,neutral,0.72238916
+196,2025-05-27,AAPL,asx market open unsurprising trump eu backdown spurs markets into week 22 recovery,negative,0.88294286
+197,2025-05-27,AMZN,amazoncom inc amzn launches amazon aurora dsql for enhanced database performance amzn stock news,neutral,0.8867714
+198,2025-05-27,AAPL,apple sinks after new 25 tariff announcementwhats the bottom,negative,0.83312905
+199,2025-05-27,GOOGL,us stocks surge as trade tensions ease tsla and amd lead gains,positive,0.7214737
+200,2025-05-27,TSLA,us stocks surge as trade tensions ease tsla and amd lead gains,positive,0.7214737
+201,2025-05-27,AAPL,us stocks surge as trade tensions ease tsla and amd lead gains,positive,0.7214737
+202,2025-05-27,AAPL,trump delays eu tariffs until july 9,neutral,0.51891744
+203,2025-05-27,AAPL,apple aapl plans to launch gaming app on its devices aapl stock news,neutral,0.8943346
+204,2025-05-27,AAPL,stock market today wall street surges as trump delays eu tariffs,positive,0.78780365
+205,2025-05-27,GOOGL,stock market today wall street surges as trump delays eu tariffs,positive,0.78780365
+206,2025-05-27,TSLA,stock market today wall street surges as trump delays eu tariffs,positive,0.78780365
+207,2025-05-27,AAPL,apple aapl makes first foray into gaming by acquiring indie studio rac7 aapl stock news,neutral,0.7778963
+208,2025-05-27,TSLA,c2 blockchain inc announces plan to acquire 1000000 cardano ada tokens as part of longterm digital asset strategy,neutral,0.9098674
+209,2025-05-27,AAPL,us major indices have a solid start to the holiday shortened week,positive,0.938541
+210,2025-05-27,TSLA,us major indices have a solid start to the holiday shortened week,positive,0.938541
+211,2025-05-27,MSFT,iceberg research predicts downfall for the metals company tmc tmc stock news,negative,0.9644813
+212,2025-05-27,TSLA,4 crypto stocks to consider as bitcoin hits new alltime highs robinhood markets nasdaqhood coinbase global nasdaqcoin,neutral,0.8240926
+213,2025-05-27,MSFT,nvidia reports q1 earnings this week heres what to expect,neutral,0.9282507
+214,2025-05-27,TSLA,stock market today markets rally as trump delays eu tariffs futures surge after memorial day,positive,0.65469444
+215,2025-05-27,TSLA,tesla inc tsla shares up 601 on may 27,positive,0.88964146
+216,2025-05-27,MSFT,alaska communications welcomes yasir alvi as cfo,neutral,0.8091063
+217,2025-05-27,MSFT,super micro computer smci shares climb 5 after fiveday slump,positive,0.8193777
+218,2025-05-27,TSLA,tesla sales crash in europe but wall street bets big on its ai future,negative,0.8019456
+219,2025-05-27,GOOGL,democrats favor big tech republicans pick bitcoinetf returns tell the story,neutral,0.9230092
+220,2025-05-27,MSFT,democrats favor big tech republicans pick bitcoinetf returns tell the story,neutral,0.9230092
+221,2025-05-27,GOOGL,investing in alphabet with insights from io goog,neutral,0.8450898
+222,2025-05-27,MSFT,alaska communications welcomes yasir alvi as cfo atni stock news,neutral,0.8803691
+223,2025-05-27,GOOGL,google googl faces fierce competition in ai race goog stock news,negative,0.86341447
+224,2025-05-27,AAPL,trump vs apple we know how this one ends rating upgrade nasdaqaapl,neutral,0.86285836
+225,2025-05-27,MSFT,builderais shocking 450m fall microsoft and qiabacked nocode ai darling files for bankruptcy after creditor seizure,negative,0.60705864
+226,2025-05-27,AAPL,spectrum tv app launches on lg and vizio smart tvs,neutral,0.81826717
+227,2025-05-27,TSLA,shore fire media clients shape the summer 2025 season with starstudded music festivals and concert series,neutral,0.92956084
+228,2025-05-27,AAPL,apple aapl sees boost in iphone sales through early discounts in china aapl stock news,positive,0.94488287
+229,2025-05-27,AAPL,aggressive stock buying on japans bond tweak igniting a global bond rally progress with europe spdr sp 500 arcaspy,positive,0.8034308
+230,2025-05-27,AMZN,aggressive stock buying on japans bond tweak igniting a global bond rally progress with europe spdr sp 500 arcaspy,positive,0.8034308
+231,2025-05-27,GOOGL,aggressive stock buying on japans bond tweak igniting a global bond rally progress with europe spdr sp 500 arcaspy,positive,0.8034308
+232,2025-05-27,TSLA,aggressive stock buying on japans bond tweak igniting a global bond rally progress with europe spdr sp 500 arcaspy,positive,0.8034308
+233,2025-05-27,AAPL,potential tariffs could significantly raise iphone prices aapl,negative,0.539536
+234,2025-05-27,AAPL,apple quantifying the impact of 25 tariffs on gross margins nasdaqaapl,neutral,0.8512213
+235,2025-05-27,TSLA,top stock movers now tesla autozone newmont and more,neutral,0.80475056
+236,2025-05-27,AAPL,india rises shashank manis 5000mile paths to prosperity,neutral,0.8229423
+237,2025-05-27,AAPL,todays midday market update stocks rally as trump delays eu tariffs,negative,0.8965643
+238,2025-05-27,MSFT,todays midday market update stocks rally as trump delays eu tariffs,negative,0.8965643
+239,2025-05-27,TSLA,todays midday market update stocks rally as trump delays eu tariffs,negative,0.8965643
+240,2025-05-27,TSLA,nvidia nvda earnings awaited as us stocks rise tsla and pdd in focus,negative,0.5745801
+241,2025-05-27,AAPL,nvidia nvda earnings awaited as us stocks rise tsla and pdd in focus,negative,0.5745801
+242,2025-05-27,MSFT,nvidia nvda earnings awaited as us stocks rise tsla and pdd in focus,negative,0.5745801
+243,2025-05-27,MSFT,terranet invites you to a digital investor meeting on june 3 2025,neutral,0.9384482
+244,2025-05-27,TSLA,teslas tsla elon musk intensifies focus amid operational challenges tsla stock news,neutral,0.78222865
+245,2025-05-27,AMZN,exploring the competitive space amazoncom versus industry peers in broadline retail amazoncom nasdaqamzn,neutral,0.72019583
+246,2025-05-27,AAPL,market analysis apple and competitors in technology hardware storage peripherals industry apple nasdaqaapl,neutral,0.9293551
+247,2025-05-27,GOOGL,assessing meta platformss performance against competitors in interactive media services industry meta platforms nasdaqmeta,neutral,0.7550361
+248,2025-05-27,MSFT,investigating microsofts standing in software industry compared to competitors microsoft nasdaqmsft,positive,0.5936925
+249,2025-05-27,AAPL,alt5 sigma integrates lightning network with voltage to enable instant bitcoin payments,neutral,0.65501595
+250,2025-05-27,AAPL,apple aapl shields app store from 9 billion in fraudulent transactions,negative,0.56645185
+251,2025-05-27,GOOGL,nasdaq index trades up 2 on the day sp index up 15,positive,0.93361706
+252,2025-05-27,TSLA,nasdaq index trades up 2 on the day sp index up 15,positive,0.93361706
+253,2025-05-27,AAPL,apple aapl faces prolonged selloff amid trumps tariff threats,negative,0.95461947
+254,2025-05-27,MSFT,was jim cramer right about microsoft corporation msft,neutral,0.9022858
+255,2025-05-27,GOOGL,heres why alphabet goog is on detractors list of loomis sayles global growth fund,neutral,0.93018043
+256,2025-05-27,AAPL,gibo announces successful application of inspirai in short drama completes thematic creation tests with honeyreels pioneering crossformat innovation in anime and liveaction short drama,positive,0.7410242
+257,2025-05-27,TSLA,elv securities notice did elevance health inc commit securities fraud contact bfa law about the class action lawsuit by july 11,neutral,0.771665
+258,2025-05-27,TSLA,iova securities notice did iovance biotherapeutics inc commit securities fraud contact bfa law about the class action lawsuit by july 14,neutral,0.67186993
+259,2025-05-27,TSLA,civi securities notice did civitas resources inc commit securities fraud contact bfa law about the class action lawsuit by july 1,neutral,0.77796394
+260,2025-05-27,TSLA,vtrs securities notice did viatris inc commit securities fraud contact bfa law about the class action lawsuit by june 3,neutral,0.76071703
+261,2025-05-27,TSLA,codi securities notice did compass diversified holdings commit securities fraud contact bfa law about the class action lawsuit by july 8,neutral,0.6789964
+262,2025-05-27,TSLA,bbai securities notice did bigbearai holdings inc commit securities fraud contact bfa law about the class action lawsuit by june 10,neutral,0.7491692
+263,2025-05-27,TSLA,does tesla tsla offer a compelling rewardtorisk opportunity,neutral,0.7539441
+264,2025-05-27,TSLA,wall street opens higher as tech stocks lead gains dow jumps over 300 points,positive,0.8846082
+265,2025-05-27,AMZN,amazoncom amzn dropped on guidance that fell short of market expectations,negative,0.9720435
+266,2025-05-27,GOOGL,steve cohen pulls the trigger on this ai powerhouse,neutral,0.8733696
+267,2025-05-27,AAPL,apple blocks over 9b in potential fraudulent transactions in last five years aaplnasdaq,negative,0.57865053
+268,2025-05-27,AAPL,apple expands iphones tap to pay to eight more countries in europe aaplnasdaq,positive,0.73336774
+269,2025-05-27,GOOGL,alphabet continue to milk search while taking over ai nasdaqgoog,neutral,0.8156328
+270,2025-05-27,AAPL,dow jones forecast djia rebounds as trump postpones steeper eu tariffs,negative,0.8350382
+271,2025-05-27,TSLA,dow jones forecast djia rebounds as trump postpones steeper eu tariffs,negative,0.8350382
+272,2025-05-27,AAPL,apple inc aapl is attracting investor attention here is what you should know,neutral,0.8375327
+273,2025-05-27,MSFT,authid announces its 2025 board of directors nominees ahead of annual meeting,neutral,0.87883145
+274,2025-05-27,AAPL,apple aapl positioned to benefit from potential usindia trade deal,positive,0.92454374
+275,2025-05-27,GOOGL,alphabet ai agents are key to search growth nasdaqgoogl,neutral,0.76915723
+276,2025-05-27,AAPL,apple aapl faces significant threat from chatgpt veteran investor says,negative,0.9500445
+277,2025-05-27,MSFT,microsoft msft and nvidia nvda named as top picks by veteran investor,positive,0.71769285
+278,2025-05-27,TSLA,teslas european woes see no end april sales crash 49 as rivals race ahead in ev market tesla nasdaqtsla,positive,0.68853915
+279,2025-05-27,AAPL,futures rip higher after trump delays eu tariff hikes,negative,0.64628905
+280,2025-05-27,AAPL,jim cramer warns market could be in trouble if apple nvidia stocks slide this week really bad sign apple nasdaqaapl hon hai precision otchnhpf,negative,0.9579515
+281,2025-05-27,MSFT,should you buy amzn stock at 33 times earnings,neutral,0.9456706
+282,2025-05-27,MSFT,stocks jump as japan panics about soaring bond yields,negative,0.7905224
+283,2025-05-27,TSLA,stocks jump as japan panics about soaring bond yields,negative,0.7905224
+284,2025-05-27,AAPL,stocks jump as japan panics about soaring bond yields,negative,0.7905224
+285,2025-05-27,GOOGL,stocks jump as japan panics about soaring bond yields,negative,0.7905224
+286,2025-05-27,AAPL,us stock market futures today dow surges over 500 points sp 500 and nasdaq rally as trump delays eu tariffs tech giants like apple microsoft and nvidia lead gains,positive,0.8192726
+287,2025-05-27,MSFT,us stock market futures today dow surges over 500 points sp 500 and nasdaq rally as trump delays eu tariffs tech giants like apple microsoft and nvidia lead gains,positive,0.8192726
+288,2025-05-27,TSLA,us stock market futures today dow surges over 500 points sp 500 and nasdaq rally as trump delays eu tariffs tech giants like apple microsoft and nvidia lead gains,positive,0.8192726
+289,2025-05-27,MSFT,authid announces its 2025 board of directors nominees ahead of annual meeting,neutral,0.87883145
+290,2025-05-27,TSLA,5 things to know before the stock market opens,neutral,0.93319935
+291,2025-05-27,TSLA,volkswagens diesel deception ends in prison time for 4 former executives tesla nasdaqtsla uber technologies nyseuber,negative,0.79114205
+292,2025-05-27,AAPL,apple aapl ceo skips middle east trip amid tariff concerns aapl stock news,negative,0.58336496
+293,2025-05-27,AAPL,apple the covert cyclical of the mag 7 nasdaqaapl,neutral,0.72345376
+294,2025-05-27,TSLA,stock market today futures rally as trump delays eu tariffs nvidia earnings in focus,negative,0.75309896
+295,2025-05-27,AAPL,stock market today futures rally as trump delays eu tariffs nvidia earnings in focus,negative,0.75309896
+296,2025-05-27,TSLA,wall street breakfast podcast tesla sales tumble in europe,negative,0.96969414
+297,2025-05-27,AAPL,wall street breakfast podcast tesla sales tumble in europe,negative,0.96969414
+298,2025-05-27,AAPL,1 nobrainer sp 500 index fund to buy right now for less than 200,neutral,0.9186279
+299,2025-05-27,MSFT,1 nobrainer sp 500 index fund to buy right now for less than 200,neutral,0.9186279
+300,2025-05-27,AAPL,us stocks likely to open higher after sp 500s fourday fall market is riskoff says expert apple nasdaqaapl autozone nyseazo,positive,0.7589917
+301,2025-05-27,AAPL,this top vc wants to use main street america as an ai lab,neutral,0.922707
+302,2025-05-27,AAPL,asia markets mixed europe gains dollar strengthens on eu tariff delay global markets today while us slept smartetfs asia pacific dividend builder etf arcaadiv,positive,0.87796265
+303,2025-05-27,TSLA,tesla tsla faces steep decline in european ev sales amid rising competition,negative,0.9730638
+304,2025-05-27,AAPL,the real cost of trumps eu tariffs,neutral,0.8857398
+305,2025-05-27,AAPL,trumps recent wrath on apple ceo tim cook is also tied to the middle east not just india report nvidia nasdaqnvda apple nasdaqaapl,neutral,0.91321814
+306,2025-05-27,TSLA,trumps recent wrath on apple ceo tim cook is also tied to the middle east not just india report nvidia nasdaqnvda apple nasdaqaapl,neutral,0.91321814
+307,2025-05-27,TSLA,us stock futures rally after long weekend on trade reprieve,negative,0.50473243
+308,2025-05-27,AAPL,us stock futures rally after long weekend on trade reprieve,negative,0.50473243
+309,2025-05-27,GOOGL,us stock futures rally after long weekend on trade reprieve,negative,0.50473243
+310,2025-05-27,TSLA,tesla autonomous driving rival pony ai to expand robotaxi fleet into dubai following agreement with regulators pony ai nasdaqpony,positive,0.8640269
+311,2025-05-27,AAPL,is the vanguard mega cap growth etf your ticket to mega returns,neutral,0.8773566
+312,2025-05-27,MSFT,is the vanguard mega cap growth etf your ticket to mega returns,neutral,0.8773566
+313,2025-05-27,TSLA,norway wealth fund chief tells staff that using ai is a must,neutral,0.81395805
+314,2025-05-27,GOOGL,norway wealth fund chief tells staff that using ai is a must,neutral,0.81395805
+315,2025-05-27,AMZN,norway wealth fund chief tells staff that using ai is a must,neutral,0.81395805
+316,2025-05-27,AAPL,norway wealth fund chief tells staff that using ai is a must,neutral,0.81395805
+317,2025-05-27,MSFT,2 unstoppable dividend stocks to buy and hold forever,neutral,0.93027264
+318,2025-05-27,AAPL,stock market today futures rally on trumps eu tariff delay as markets reopen after memorial day,positive,0.7375156
+319,2025-05-27,MSFT,stock market today futures rally on trumps eu tariff delay as markets reopen after memorial day,positive,0.7375156
+320,2025-05-27,TSLA,stock market today futures rally on trumps eu tariff delay as markets reopen after memorial day,positive,0.7375156
+321,2025-05-27,TSLA,tesla struggles in europe as sales plunge 49 yy in april tslanasdaq,negative,0.96615547
+322,2025-05-27,GOOGL,youtube ceo neal mohan says the streaming giant must disrupt itself as he reflects on what a future rival might look like alphabet nasdaqgoog alphabet nasdaqgoogl,negative,0.822908
+323,2025-05-27,AAPL,stock market today markets rally as trump delays eu tariffs key earnings in focus,negative,0.7749635
+324,2025-05-27,MSFT,stock market today markets rally as trump delays eu tariffs key earnings in focus,negative,0.7749635
+325,2025-05-27,TSLA,stock market today markets rally as trump delays eu tariffs key earnings in focus,negative,0.7749635
